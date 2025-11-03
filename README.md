@@ -17,6 +17,34 @@ Este repositório contém todo o código-fonte do projeto **Uma Boa Comida**, in
 
 ---
 
+## Estrutura do Projeto (MVVM)
+
+O projeto segue o **padrão MVVM (Model-View-ViewModel)**.  
+
+### Componentes:
+
+1. **Model**  
+   - Contém as classes que representam os dados do sistema, geralmente mapeadas para as tabelas do banco de dados.  
+   - Exemplo: `Funcionario`, `Produto`, `Pedido`, `Cliente`.
+
+2. **View**  
+   - Representa a interface do usuário (UI).  
+   - Criada com **XAML**, cada página (`.xaml`) tem sua lógica visual e elementos de interface.  
+   - Exemplo: `FuncionarioMainPage.xaml`, `AdminMainPage.xaml`.
+
+3. **ViewModel**  
+   - Faz a ligação entre **View** e **Model**, expondo propriedades e comandos para a interface.  
+   - Responsável por atualizar a UI quando os dados mudam e por processar ações do usuário.  
+   - Evita que a View acesse diretamente o Model, mantendo a separação de responsabilidades.
+
+### Fluxo de dados:
+View <----> ViewModel <----> Model <----> Banco de Dados
+- A **View** consome propriedades e comandos do **ViewModel** via **Data Binding**.  
+- O **ViewModel** manipula os dados do **Model** e notifica a View sobre mudanças.  
+- O **Model** representa os dados puros do sistema e pode conter regras de negócio.
+
+---
+
 ## Como executar localmente
 
 ### 1. Instalar dependências
