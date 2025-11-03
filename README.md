@@ -40,7 +40,6 @@ No pgAdmin:
 3. Execute os scripts `CREATE TABLE` para criar as tabelas  
 4. Execute os scripts `INSERT` (seeders) para popular dados iniciais  
 
-> Se houver vários arquivos `.sql`, execute-os na ordem correta
 
 ### 4. Executar o projeto
 - No Visual Studio, clique em **Run** ou **Start Debugging**  
