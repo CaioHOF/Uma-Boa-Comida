@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UmaBoaComida.Views.Admin.AdminMainPage"
+             BackgroundColor="#EDF2F4">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="20">
+
+            <Label Text="Painel do Administrador" 
+                   FontSize="28" 
+                   HorizontalOptions="Center" 
+                   TextColor="#2B2D42"/>
+
+            <Button x:Name="GerenciarFuncionariosButton" Text="Gerenciar Funcionários" BackgroundColor="#2B2D42" TextColor="White" CornerRadius="10"/>
+            <Button x:Name="GerenciarPedidosButton" Text="Menu do Atendente" BackgroundColor="#2B2D42" TextColor="White" CornerRadius="10"/>
+            <Button x:Name="GerenciarEstoqueButton" Text="Gerenciar Estoque" BackgroundColor="#2B2D42" TextColor="White" CornerRadius="10"/>
+            <Button x:Name="AprovarReceitasButton" Text="Menu do Cozinheiro" BackgroundColor="#2B2D42" TextColor="White" CornerRadius="10"/>
+            <Button x:Name="VerHistoricoButton" Text="Ver Histórico" BackgroundColor="#2B2D42" TextColor="White" CornerRadius="10"/>
+            <Button x:Name="VoltarButton" Text="Voltar" BackgroundColor="#8D99AE" TextColor="White" CornerRadius="10"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

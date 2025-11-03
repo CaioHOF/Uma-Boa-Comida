@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UmaBoaComida.Views.Cozinheiro.FinalizarPedidoPage"
+             BackgroundColor="#EDF2F4"
+             Title="Finalizar Pedido">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="20">
+
+            <Label Text="Finalizar Pedidos"
+                   FontSize="28"
+                   TextColor="#2B2D42"
+                   HorizontalOptions="Center"/>
+
+            <CollectionView x:Name="PedidosCollectionView">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame Padding="10" Margin="5" BackgroundColor="#8D99AE" CornerRadius="10">
+                            <VerticalStackLayout>
+                                <Label Text="{Binding NomeCliente}" TextColor="White"/>
+                                <Label Text="{Binding Status}" TextColor="White"/>
+                                <Button Text="Finalizar" BackgroundColor="#2B2D42" TextColor="White"
+                                        Clicked="FinalizarButton_Clicked"/>
+                            </VerticalStackLayout>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+            <Button Text="Voltar" BackgroundColor="#8D99AE" TextColor="White" CornerRadius="10"
+                    Clicked="VoltarButton_Clicked"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

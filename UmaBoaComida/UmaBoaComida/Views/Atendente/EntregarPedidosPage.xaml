@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UmaBoaComida.Views.Atendente.EntregarPedidosPage"
+             BackgroundColor="#EDF2F4"
+             Title="Entregar Pedidos">
+
+    <VerticalStackLayout Padding="20" Spacing="20">
+
+        <Label Text="Pedidos em Processo"
+               FontSize="28"
+               FontAttributes="Bold"
+               TextColor="#2B2D42"
+               HorizontalOptions="Center"/>
+
+        <ListView x:Name="PedidosListView"
+                  BackgroundColor="White"
+                  HeightRequest="300"
+                  SelectionMode="Single">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding NomeCliente}" Detail="{Binding Status}"/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Button x:Name="EntregarButton"
+                Text="Entregar Pedido"
+                BackgroundColor="#2B2D42"
+                TextColor="White"
+                CornerRadius="10"
+                HeightRequest="50"/>
+
+        <Button x:Name="VoltarButton"
+                Text="Voltar"
+                BackgroundColor="#8D99AE"
+                TextColor="White"
+                CornerRadius="10"
+                HeightRequest="50"/>
+    </VerticalStackLayout>
+</ContentPage>
