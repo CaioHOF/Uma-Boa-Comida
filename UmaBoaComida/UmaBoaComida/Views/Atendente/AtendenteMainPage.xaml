@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage 
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="UmaBoaComida.Views.Atendente.AtendenteMainPage"
+    Title="Painel do Atendente"
+    BackgroundColor="#EDF2F4">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="20">
+
+            <Label 
+                Text="Painel do Atendente"
+                FontSize="28"
+                FontAttributes="Bold"
+                HorizontalOptions="Center"
+                TextColor="#2B2D42"/>
+
+            <Button 
+                x:Name="ConfigButton"
+                Text="Config"
+                BackgroundColor="#2B2D42"
+                TextColor="White"
+                CornerRadius="10"
+                HeightRequest="50"/>
+
+            <Button 
+                x:Name="GerarPedidoButton"
+                Text="Gerar Pedido"
+                BackgroundColor="#2B2D42"
+                TextColor="White"
+                CornerRadius="10"
+                HeightRequest="50"/>
+
+            <Button 
+                x:Name="VerPedidosButton"
+                Text="Ver Pedidos"
+                BackgroundColor="#2B2D42"
+                TextColor="White"
+                CornerRadius="10"
+                HeightRequest="50"/>
+
+            <Button 
+                x:Name="VoltarButton"
+                Text="Voltar"
+                BackgroundColor="#8D99AE"
+                TextColor="White"
+                CornerRadius="10"
+                HeightRequest="50"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="UmaBoaComida.Views.Pedidos.GerarPedidoPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Gerar Pedido">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="16" Spacing="12">
+            <Label Text="Nome do Cliente:" FontAttributes="Bold"/>
+            <Entry x:Name="ClienteEntry" Placeholder="Digite o nome do cliente"/>
+
+            <Label Text="Selecione as Receitas:" FontAttributes="Bold"/>
+            <CollectionView x:Name="ReceitasList" SelectionMode="Multiple" HeightRequest="200">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Padding="6">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="30"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <CheckBox IsChecked="{Binding IsSelected}" Grid.Column="0"/>
+                            <Label Text="{Binding Nome}" Grid.Column="1" VerticalOptions="Center"/>
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+            <!--<Label Text="Selecione os Itens de Estoque:" FontAttributes="Bold"/>
+            <CollectionView x:Name="EstoqueList" SelectionMode="Multiple" HeightRequest="200">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Padding="6">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="30"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <CheckBox IsChecked="{Binding IsSelected}" Grid.Column="0"/>
+                            <Label Text="{Binding Nome}" Grid.Column="1" VerticalOptions="Center"/>
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>-->
+
+            <Button x:Name="GerarPedidoButton"
+                    Text="Gerar Pedido"
+                    BackgroundColor="SteelBlue"
+                    TextColor="White"
+                    CornerRadius="10"
+                    Clicked="OnGerarPedidoClicked"/>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,129 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UmaBoaComida
+build_property.ProjectDir = C:\Users\pudim\source\repos\UmaBoaComida\UmaBoaComida\UmaBoaComida\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/pudim/source/repos/UmaBoaComida/UmaBoaComida/UmaBoaComida/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UmaBoaComida.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/pudim/source/repos/UmaBoaComida/UmaBoaComida/UmaBoaComida/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UmaBoaComida.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/pudim/source/repos/UmaBoaComida/UmaBoaComida/UmaBoaComida/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UmaBoaComida.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/pudim/source/repos/UmaBoaComida/UmaBoaComida/UmaBoaComida/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UmaBoaComida.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/pudim/source/repos/UmaBoaComida/UmaBoaComida/UmaBoaComida/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UmaBoaComida.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/pudim/source/repos/UmaBoaComida/UmaBoaComida/UmaBoaComida/Views/Admin/AdminMainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UmaBoaComida.Views.Admin.AdminMainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Admin\AdminMainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Admin\AdminMainPage.xaml
+
+[C:/Users/pudim/source/repos/UmaBoaComida/UmaBoaComida/UmaBoaComida/Views/Admin/FuncionariosPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UmaBoaComida.Views.Admin.FuncionariosPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Admin\FuncionariosPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Admin\FuncionariosPage.xaml
+
+[C:/Users/pudim/source/repos/UmaBoaComida/UmaBoaComida/UmaBoaComida/Views/Atendente/AtendenteMainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UmaBoaComida.Views.Atendente.AtendenteMainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Atendente\AtendenteMainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Atendente\AtendenteMainPage.xaml
+
+[C:/Users/pudim/source/repos/UmaBoaComida/UmaBoaComida/UmaBoaComida/Views/Atendente/GerarPedidoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UmaBoaComida.Views.Atendente.GerarPedidoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Atendente\GerarPedidoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Atendente\GerarPedidoPage.xaml
+
+[C:/Users/pudim/source/repos/UmaBoaComida/UmaBoaComida/UmaBoaComida/Views/Cadastro/CadastrarFuncionarioPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UmaBoaComida.Views.Cadastro.CadastrarFuncionarioPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Cadastro\CadastrarFuncionarioPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Cadastro\CadastrarFuncionarioPage.xaml
+
+[C:/Users/pudim/source/repos/UmaBoaComida/UmaBoaComida/UmaBoaComida/Views/Cliente/ClienteMainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UmaBoaComida.Views.Cliente.ClienteMainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Cliente\ClienteMainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Cliente\ClienteMainPage.xaml
+
+[C:/Users/pudim/source/repos/UmaBoaComida/UmaBoaComida/UmaBoaComida/Views/Cozinheiro/CozinheiroMainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UmaBoaComida.Views.Cozinheiro.CozinheiroMainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Cozinheiro\CozinheiroMainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Cozinheiro\CozinheiroMainPage.xaml
+
+[C:/Users/pudim/source/repos/UmaBoaComida/UmaBoaComida/UmaBoaComida/Views/Cozinheiro/GerarReceitaPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UmaBoaComida.Views.Cozinheiro.GerarReceitaPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Cozinheiro\GerarReceitaPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Cozinheiro\GerarReceitaPage.xaml
+
+[C:/Users/pudim/source/repos/UmaBoaComida/UmaBoaComida/UmaBoaComida/Views/Estoque/EstoquePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UmaBoaComida.Views.Estoque.EstoquePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Estoque\EstoquePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Estoque\EstoquePage.xaml
+
+[C:/Users/pudim/source/repos/UmaBoaComida/UmaBoaComida/UmaBoaComida/Views/Funcionario/FuncionarioMainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UmaBoaComida.Views.Funcionario.FuncionarioMainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Funcionario\FuncionarioMainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Funcionario\FuncionarioMainPage.xaml
+
+[C:/Users/pudim/source/repos/UmaBoaComida/UmaBoaComida/UmaBoaComida/Views/Historico/HistoricoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UmaBoaComida.Views.Historico.HistoricoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Historico\HistoricoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Historico\HistoricoPage.xaml
+
+[C:/Users/pudim/source/repos/UmaBoaComida/UmaBoaComida/UmaBoaComida/Views/Login/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UmaBoaComida.Views.Login.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Login\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Login\LoginPage.xaml
+
+[C:/Users/pudim/source/repos/UmaBoaComida/UmaBoaComida/UmaBoaComida/Views/Pedido/PedidosPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UmaBoaComida.Views.Pedido.PedidosPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Pedido\PedidosPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Pedido\PedidosPage.xaml
+
+[C:/Users/pudim/source/repos/UmaBoaComida/UmaBoaComida/UmaBoaComida/Views/Receitas/ReceitasPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UmaBoaComida.Views.Receitas.ReceitasPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Receitas\ReceitasPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Receitas\ReceitasPage.xaml
