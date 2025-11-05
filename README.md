@@ -1,7 +1,7 @@
 # Uma-Boa-Comida
 
 ## Descrição
-Este repositório contém todo o código-fonte do projeto **Uma Boa Comida**, incluindo backend, frontend e scripts para banco de dados.
+Este repositório contém todo o código-fonte do projeto **Uma Boa Comida**, incluindo backend, frontend.
 
 **Repositório:** [https://github.com/CaioHOF/Uma-Boa-Comida](https://github.com/CaioHOF/Uma-Boa-Comida)
 
@@ -13,7 +13,7 @@ Este repositório contém todo o código-fonte do projeto **Uma Boa Comida**, in
 ## Stack
 - **Back-end:** C#  
 - **Front-end:** XAML  
-- **Banco de dados:** PostgreSQL  
+- **Banco de dados:** PostgreSQL  / arquivosLocais
 
 ---
 
@@ -49,32 +49,15 @@ View <----> ViewModel <----> Model <----> Banco de Dados
 
 ### 1. Instalar dependências
 - Visual Studio 2022 (ou mais recente) com suporte a **.NET MAUI**  
-- PostgreSQL (versão compatível)  
-- pgAdmin  
 
-### 2. Configurar arquivo de conexão
-- Abra `appsettings.json` ou equivalente  
-- Configure os parâmetros:  
-  - **Host**  
-  - **Porta**  
-  - **Nome do banco**  
-  - **Usuário**  
-  - **Senha**  
-
-### 3. Rodar scripts do banco
-No pgAdmin:  
-1. Conecte-se ao servidor PostgreSQL  
-2. Abra **Query Tool** no banco que será usado  
-3. Execute os scripts `CREATE TABLE` para criar as tabelas  
-4. Execute os scripts `INSERT` (seeders) para popular dados iniciais  
-
-
-### 4. Executar o projeto
+### 2. Executar o projeto
+- Abra a pasta do programa no Visual Studio
 - No Visual Studio, clique em **Run** ou **Start Debugging**  
 - O aplicativo será iniciado localmente, conectado ao banco com os dados iniciais  
 
 ---
 
+Temos um banco de dados feito e pronto para implementação:
 ## Scripts do banco de dados
 
 ### Criação das tabelas e seeders
