@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UmaBoaComida.Views.Cadastro.CadastrarFuncionarioPage"
+             BackgroundColor="#EDF2F4"
+             Title="Cadastrar Funcionário">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="30" Spacing="20">
+
+            <Label Text="Cadastro de Funcionário"
+                   FontSize="28"
+                   FontAttributes="Bold"
+                   TextColor="#2B2D42"
+                   HorizontalOptions="Center"/>
+
+            <Picker x:Name="TipoPicker"
+                    Title="Tipo de Funcionário"
+                    TextColor="#2B2D42"
+                    BackgroundColor="White"
+                    HeightRequest="50">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Atendente</x:String>
+                        <x:String>Cozinheiro</x:String>
+                        <x:String>Genérico</x:String>
+                        <x:String>Administrador</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+
+            <Entry x:Name="NomeEntry"
+                   Placeholder="Nome"
+                   TextColor="#2B2D42"
+                   BackgroundColor="White"
+                   HeightRequest="50"/>
+
+            <Entry x:Name="CpfEntry"
+                   Placeholder="CPF"
+                   Keyboard="Numeric"
+                   TextColor="#2B2D42"
+                   BackgroundColor="White"
+                   HeightRequest="50"/>
+
+            <Entry x:Name="IdadeEntry"
+                   Placeholder="Idade"
+                   Keyboard="Numeric"
+                   TextColor="#2B2D42"
+                   BackgroundColor="White"
+                   HeightRequest="50"/>
+
+            <Entry x:Name="SalarioEntry"
+                   Placeholder="Salário"
+                   Keyboard="Numeric"
+                   TextColor="#2B2D42"
+                   BackgroundColor="White"
+                   HeightRequest="50"/>
+
+            <Entry x:Name="EmailEntry"
+                   Placeholder="Email"
+                   Keyboard="Email"
+                   TextColor="#2B2D42"
+                   BackgroundColor="White"
+                   HeightRequest="50"/>
+
+            <Entry x:Name="SenhaEntry"
+                   Placeholder="Senha"
+                   IsPassword="True"
+                   TextColor="#2B2D42"
+                   BackgroundColor="White"
+                   HeightRequest="50"/>
+
+            <Button x:Name="CadastrarButton"
+                    Text="Cadastrar"
+                    BackgroundColor="#2B2D42"
+                    TextColor="White"
+                    CornerRadius="10"
+                    HeightRequest="50"/>
+
+            <Button x:Name="VoltarButton"
+                    Text="Voltar"
+                    BackgroundColor="#8D99AE"
+                    TextColor="White"
+                    CornerRadius="10"
+                    HeightRequest="50"/>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
