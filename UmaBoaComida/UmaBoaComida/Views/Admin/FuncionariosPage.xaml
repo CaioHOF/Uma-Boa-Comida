@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UmaBoaComida.Views.Admin.FuncionariosPage"
+             Title="Funcionários">
+
+    <ScrollView>
+        <VerticalStackLayout x:Name="MainLayout" Padding="16" Spacing="10">
+            <Button x:Name="AdicionarFuncionarioButton"
+                    Text="Adicionar Funcionário"
+                    BackgroundColor="#2B2D42"
+                    TextColor="White"
+                    CornerRadius="10"
+                    IsVisible="False"/>
+            <VerticalStackLayout x:Name="FuncionariosStack" Spacing="10"/>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
