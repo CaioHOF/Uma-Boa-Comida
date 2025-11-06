@@ -1,0 +1,77 @@
+🍴 Uma Boa Comida
+
+Aplicativo desenvolvido em .NET MAUI para gerenciamento de restaurante, incluindo controle de funcionários, pedidos, estoque e receitas.
+
+🧩 Funcionalidades principais
+
+👨‍🍳 Funcionários — cadastro, login e controle de expediente.
+
+📦 Estoque — visualização e atualização de ingredientes e produtos.
+
+🧾 Pedidos — registro de pedidos com cálculo automático de valor total.
+
+🍰 Receitas — exibe receitas, ingredientes e custos de preparo.
+
+📊 Relatórios — histórico diário e completo de atividades.
+
+🛠️ Tecnologias usadas
+
+.NET 9.0
+
+.NET MAUI (Android / Windows)
+
+C# 12
+
+XAML
+
+MVVM e navegação com NavigationStack
+
+Persistência via objetos e listas globais
+
+⚙️ Estrutura básica
+UmaBoaComida/
+├── Models/
+│   ├── UsersModels/
+│   │   ├── Funcionario.cs
+│   │   ├── Administrador.cs
+│   │   └── Cozinheiro.cs
+│   ├── Pedido.cs
+│   ├── Receita.cs
+│   ├── StockItem.cs
+│   └── Avaliacao.cs
+│
+├── Views/
+│   ├── LoginPage.xaml
+│   ├── FuncionarioMainPage.xaml
+│   ├── PedidosPage.xaml
+│   ├── ReceitasPage.xaml
+│   └── EstoquePage.xaml
+│
+├── App.xaml
+├── App.xaml.cs
+└── UmaBoaComida.csproj
+
+📱 Como gerar o APK (Android)
+
+No Visual Studio 2022, abra a solução UmaBoaComida.sln.
+
+No topo, selecione a configuração Release e o destino Android.
+
+Clique em Build → Publish → Android → Ad Hoc ou Build Solution (Ctrl + Shift + B).
+
+O APK gerado ficará neste caminho:
+
+UmaBoaComida\UmaBoaComida\UmaBoaComida.Android\bin\Release\net9.0-android\
+
+
+Dentro dessa pasta, você encontrará um arquivo como:
+
+com.umaboadcomida-Signed.apk
+
+📥 Como instalar o APK no celular
+
+Copie o arquivo .apk para seu dispositivo Android.
+
+Ative “Instalar apps de fontes desconhecidas” nas configurações.
+
+Abra o arquivo com o Gerenciador de Arquivos → toque em Instalar.

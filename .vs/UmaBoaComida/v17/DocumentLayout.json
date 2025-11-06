@@ -1,0 +1,783 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\receitas\\receitaspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\receitas\\receitaspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\pedido\\pedidospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\pedido\\pedidospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\pedido\\pedidospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\pedido\\pedidospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\receitas\\receitaspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\receitas\\receitaspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\cozinheiro\\cozinheiromainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\cozinheiro\\cozinheiromainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\admin\\adminmainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\admin\\adminmainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\cozinheiro\\gerarreceitapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\cozinheiro\\gerarreceitapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\cozinheiro\\gerarreceitapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\cozinheiro\\gerarreceitapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\cozinheiro\\cozinheiromainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\cozinheiro\\cozinheiromainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\models\\usersmodels\\cozinheiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\models\\usersmodels\\cozinheiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\atendente\\gerarpedidopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\atendente\\gerarpedidopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\atendente\\atendentemainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\atendente\\atendentemainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\estoque\\estoquepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\estoque\\estoquepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\funcionario\\funcionariomainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\funcionario\\funcionariomainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\historico\\historicopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\historico\\historicopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\login\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\login\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\historico\\historicopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\historico\\historicopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\login\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\login\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\funcionario\\funcionariomainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\funcionario\\funcionariomainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\atendente\\atendentemainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\atendente\\atendentemainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\atendente\\gerarpedidopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\atendente\\gerarpedidopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\models\\usersmodels\\atendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\models\\usersmodels\\atendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\admin\\adminmainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\admin\\adminmainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\models\\usersmodels\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\models\\usersmodels\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\admin\\funcionariospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\admin\\funcionariospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\admin\\funcionariospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\admin\\funcionariospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\cadastro\\cadastrarfuncionariopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\cadastro\\cadastrarfuncionariopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\cadastro\\cadastrarfuncionariopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\cadastro\\cadastrarfuncionariopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\models\\receita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\models\\receita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\models\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\models\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\models\\usersmodels\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\models\\usersmodels\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\models\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\models\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\models\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\models\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\models\\stockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\models\\stockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\models\\historico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\models\\historico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\models\\globais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\models\\globais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\views\\estoque\\estoquepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\views\\estoque\\estoquepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|c:\\users\\pudim\\source\\repos\\umaboacomida\\umaboacomida\\umaboacomida\\mauiprogramextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4957CFB8-0741-4F1C-8E34-A70A080B5627}|UmaBoaComida\\UmaBoaComida\\UmaBoaComida.csproj|solutionrelative:umaboacomida\\umaboacomida\\mauiprogramextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReceitasPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Receitas\\ReceitasPage.xaml.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Receitas\\ReceitasPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Receitas\\ReceitasPage.xaml.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Receitas\\ReceitasPage.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:12:17.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReceitasPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Receitas\\ReceitasPage.xaml",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Receitas\\ReceitasPage.xaml",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Receitas\\ReceitasPage.xaml",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Receitas\\ReceitasPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T13:12:04.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FuncionarioMainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Funcionario\\FuncionarioMainPage.xaml",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Funcionario\\FuncionarioMainPage.xaml",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Funcionario\\FuncionarioMainPage.xaml",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Funcionario\\FuncionarioMainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T02:31:53.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EstoquePage.xaml",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Estoque\\EstoquePage.xaml",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Estoque\\EstoquePage.xaml",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Estoque\\EstoquePage.xaml",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Estoque\\EstoquePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T03:32:35.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CozinheiroMainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Cozinheiro\\CozinheiroMainPage.xaml",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Cozinheiro\\CozinheiroMainPage.xaml",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Cozinheiro\\CozinheiroMainPage.xaml",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Cozinheiro\\CozinheiroMainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-05T03:02:20.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cozinheiro.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\UsersModels\\Cozinheiro.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Models\\UsersModels\\Cozinheiro.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\UsersModels\\Cozinheiro.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Models\\UsersModels\\Cozinheiro.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAC8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T00:52:17.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GerarPedidoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Atendente\\GerarPedidoPage.xaml.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Atendente\\GerarPedidoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Atendente\\GerarPedidoPage.xaml.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Atendente\\GerarPedidoPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T00:17:30.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CozinheiroMainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Cozinheiro\\CozinheiroMainPage.xaml.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Cozinheiro\\CozinheiroMainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Cozinheiro\\CozinheiroMainPage.xaml.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Cozinheiro\\CozinheiroMainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:50:16.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminMainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Admin\\AdminMainPage.xaml.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Admin\\AdminMainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Admin\\AdminMainPage.xaml.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Admin\\AdminMainPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wCMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:36:10.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidosPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Pedido\\PedidosPage.xaml",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Pedido\\PedidosPage.xaml",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Pedido\\PedidosPage.xaml",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Pedido\\PedidosPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T03:30:02.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidosPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Pedido\\PedidosPage.xaml.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Pedido\\PedidosPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Pedido\\PedidosPage.xaml.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Pedido\\PedidosPage.xaml.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAowLcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:30:34.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GerarReceitaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Cozinheiro\\GerarReceitaPage.xaml",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Cozinheiro\\GerarReceitaPage.xaml",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Cozinheiro\\GerarReceitaPage.xaml",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Cozinheiro\\GerarReceitaPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-05T03:42:04.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GerarReceitaPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Cozinheiro\\GerarReceitaPage.xaml.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Cozinheiro\\GerarReceitaPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Cozinheiro\\GerarReceitaPage.xaml.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Cozinheiro\\GerarReceitaPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T03:42:19.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HistoricoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Historico\\HistoricoPage.xaml",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Historico\\HistoricoPage.xaml",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Historico\\HistoricoPage.xaml",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Historico\\HistoricoPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T03:17:57.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Login\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Login\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Login\\LoginPage.xaml",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Login\\LoginPage.xaml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T00:51:39.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AtendenteMainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Atendente\\AtendenteMainPage.xaml",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Atendente\\AtendenteMainPage.xaml",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Atendente\\AtendenteMainPage.xaml",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Atendente\\AtendenteMainPage.xaml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T02:51:02.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HistoricoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Historico\\HistoricoPage.xaml.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Historico\\HistoricoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Historico\\HistoricoPage.xaml.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Historico\\HistoricoPage.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:18:00.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Login\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Login\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Login\\LoginPage.xaml.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Login\\LoginPage.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwC4AAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:57:16.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FuncionarioMainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Funcionario\\FuncionarioMainPage.xaml.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Funcionario\\FuncionarioMainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Funcionario\\FuncionarioMainPage.xaml.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Funcionario\\FuncionarioMainPage.xaml.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:59:23.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AtendenteMainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Atendente\\AtendenteMainPage.xaml.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Atendente\\AtendenteMainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Atendente\\AtendenteMainPage.xaml.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Atendente\\AtendenteMainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:51:04.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\Pedido.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T00:54:29.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GerarPedidoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Atendente\\GerarPedidoPage.xaml",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Atendente\\GerarPedidoPage.xaml",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Atendente\\GerarPedidoPage.xaml",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Atendente\\GerarPedidoPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-05T02:30:39.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminMainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Admin\\AdminMainPage.xaml",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Admin\\AdminMainPage.xaml",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Admin\\AdminMainPage.xaml",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Admin\\AdminMainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T02:33:02.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\UsersModels\\Administrador.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Models\\UsersModels\\Administrador.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\UsersModels\\Administrador.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Models\\UsersModels\\Administrador.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T00:53:45.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FuncionariosPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Admin\\FuncionariosPage.xaml.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Admin\\FuncionariosPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Admin\\FuncionariosPage.xaml.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Admin\\FuncionariosPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T00:22:05.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FuncionariosPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Admin\\FuncionariosPage.xaml",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Admin\\FuncionariosPage.xaml",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Admin\\FuncionariosPage.xaml",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Admin\\FuncionariosPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-05T00:21:54.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Atendente.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\UsersModels\\Atendente.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Models\\UsersModels\\Atendente.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\UsersModels\\Atendente.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Models\\UsersModels\\Atendente.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvysAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T00:52:47.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CadastrarFuncionarioPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Cadastro\\CadastrarFuncionarioPage.xaml.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Cadastro\\CadastrarFuncionarioPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Cadastro\\CadastrarFuncionarioPage.xaml.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Cadastro\\CadastrarFuncionarioPage.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:48:13.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CadastrarFuncionarioPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Cadastro\\CadastrarFuncionarioPage.xaml",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Cadastro\\CadastrarFuncionarioPage.xaml",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Cadastro\\CadastrarFuncionarioPage.xaml",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Cadastro\\CadastrarFuncionarioPage.xaml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAEEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T23:48:25.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Receita.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\Receita.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Models\\Receita.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\Receita.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Models\\Receita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T00:57:12.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Avaliacao.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\Avaliacao.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Models\\Avaliacao.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\Avaliacao.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Models\\Avaliacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T00:54:58.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\UsersModels\\Funcionario.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Models\\UsersModels\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\UsersModels\\Funcionario.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Models\\UsersModels\\Funcionario.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T03:50:46.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\Estoque.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Models\\Estoque.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\Estoque.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Models\\Estoque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T00:54:52.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\Usuario.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T03:51:08.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Globais.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\Globais.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Models\\Globais.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\Globais.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Models\\Globais.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T00:54:47.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Historico.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\Historico.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Models\\Historico.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\Historico.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Models\\Historico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T00:54:35.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StockItem.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\StockItem.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Models\\StockItem.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\StockItem.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Models\\StockItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T00:54:01.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\Storage.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Models\\Storage.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Models\\Storage.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Models\\Storage.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T00:53:55.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EstoquePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Estoque\\EstoquePage.xaml.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\Views\\Estoque\\EstoquePage.xaml.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\Views\\Estoque\\EstoquePage.xaml.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\Views\\Estoque\\EstoquePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T03:33:21.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MauiProgramExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\MauiProgramExtensions.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\MauiProgramExtensions.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\MauiProgramExtensions.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\MauiProgramExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T00:58:30.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\MainPage.xaml",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\MainPage.xaml",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T00:59:21.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\AppShell.xaml.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T00:59:30.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\AppShell.xaml",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\AppShell.xaml",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T00:59:42.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\App.xaml.cs",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\App.xaml.cs",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T00:59:51.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\App.xaml",
+              "RelativeDocumentMoniker": "UmaBoaComida\\UmaBoaComida\\App.xaml",
+              "ToolTip": "C:\\Users\\pudim\\source\\repos\\UmaBoaComida\\UmaBoaComida\\UmaBoaComida\\App.xaml",
+              "RelativeToolTip": "UmaBoaComida\\UmaBoaComida\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T00:59:57.046Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
