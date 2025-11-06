@@ -5,6 +5,8 @@ Este repositório contém todo o código-fonte do projeto **Uma Boa Comida**, in
 
 **Repositório:** [https://github.com/CaioHOF/Uma-Boa-Comida](https://github.com/CaioHOF/Uma-Boa-Comida)
 
+**Video Teste**: https://drive.google.com/drive/folders/1-2051qf62TOqkbc8o4XTDJookRdtNrDk
+
 - Estrutura de pastas clara, facilitando manutenção e entendimento.  
 - Scripts de criação de banco e seeds estão na pasta `Scripts` ou equivalente.
 
