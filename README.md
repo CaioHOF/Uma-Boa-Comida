@@ -59,11 +59,17 @@ View <----> ViewModel <----> Model <----> Banco de Dados
 
 ### 3. Problemas
 Caso esteja tendo problemas em fazer o build do projeto siga os seguites passos
+
 -Crie um novo projeto chamado UmaBoaComida no Visual Studio usando o .NET MAUI Muti-Project App
+
 -Selecione só Win e Droid
+
 -Entre no gerenciador de arquivos e navegue até a pasta do projeto novo
+
 -Substitua a pasta UmaBoaComida(a que esta jundo com UmaBoaComida.Droid e UmaBoaComida.WinUI) pela que esta no git
+
 -Faça a build do programa novamente
+
 
 ---
 
